@@ -2,11 +2,15 @@
 layout: default
 ---
 
-<div class="home">
+<div class="home" style="float: right; text-align: right">
+  <h1 class="page-heading">Sections</h1>
   <ul class="post-list">
     <li>
       <h2>
         <a class="post-link" href="http://lichens.nyc/">Lichens of New York City</a>
+      </h2>
+      <h2>
+        <a class="post-link" href="/code/characters/">Character Collection</a>
       </h2>
       <h2>
         <a class="post-link" href="/nature/">Nature</a>
@@ -14,9 +18,21 @@ layout: default
       <h2>
         <a class="post-link" href="/code/">Code</a>
       </h2>
-      <h2>
-        <a class="post-link" href="/code/characters/">Character Collection</a>
-      </h2>
     </li>
   </ul>
+</div>
+<div class="home">
+  <h1 class="page-heading">Articles</h1>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        {{ post.excerpt }}
+      </li>
+    {% endfor %}
+  </ul>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>
