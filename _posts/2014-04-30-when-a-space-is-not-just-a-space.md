@@ -1,6 +1,6 @@
 ---
 title: When a Space Is Not Just a Space
-permalink: /article/when-a-space-is-not-just-a-space/
+permalink: /articles/when-a-space-is-not-just-a-space/
 layout: post
 category: coding
 tags:
