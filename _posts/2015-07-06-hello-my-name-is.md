@@ -10,10 +10,11 @@ tags:
   - i18n
 ---
 
-Here are some notes, slides, video, and additional resources for my 2015 talk
-on technical aspects to supporting online identities that I presented in June at
-[Open Source Bridge](http://opensourcebridge.org/) and
-[YAPC::NA](http://www.yapcna.org/yn2015/).
+I recently presented this new talk *Hello, my name is __________* on
+supporting diverse user identities at [Open Source
+Bridge](http://opensourcebridge.org/) and
+[YAPC::NA](http://www.yapcna.org/yn2015/). Here are some notes, slides, video,
+and additional resources.
 
 ### Abstract
 
