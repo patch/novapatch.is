@@ -1,14 +1,13 @@
 ---
-title: 'YAPC::NA 2015: Video, Slides, and Notes'
+title: 'Hello, my name is __________.'
 layout: post
-permalink: /articles/yapcna-2015/
+permalink: /talks/hello-my-name-is/
 category: coding
 tags:
-  - unicode
+  - names
   - identity
+  - unicode
   - i18n
-  - perl
-  - yapc
 ---
 
 I attended my eighth [YAPC::NA](http://www.yapcna.org/yn2015/) last week in Salt
