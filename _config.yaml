@@ -3,7 +3,7 @@ email:            patch@cpan.org
 description:      Open source, written languages of the world… and lichens!
 baseurl:          ""
 url:              http://nickpatch.net
-twitter_username: nickpatch
+twitter_username: novapatch
 github_username:  patch
 encoding:         utf-8
 markdown:         kramdown

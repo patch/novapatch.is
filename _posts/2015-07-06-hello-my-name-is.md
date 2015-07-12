@@ -70,7 +70,7 @@ width="560" height="315" frameborder="0" allowfullscreen="true"></iframe>
 </span>
 
 > “[#yapcna](https://twitter.com/hashtag/yapcna?src=hash) talk on name storage
-> &#x26; modern Unicode by [@nickpatch](https://twitter.com/nickpatch) is
+> &#x26; modern Unicode by [@novapatch](https://twitter.com/novapatch) is
 > convincing me to not use just Alice and Bob Fakename in my test suites.”
 > <span style="font-size: 80%">
 >   —[Jason McIntosh](https://twitter.com/JmacDotOrg)
@@ -105,16 +105,16 @@ width="560" height="315" frameborder="0" allowfullscreen="true"></iframe>
  * [Unicode Security Considerations](http://unicode.org/reports/tr36/)
  * [Unicode Security Mechanisms](http://unicode.org/reports/tr39/)
 
-<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">&quot;Preventing fake names is not worth discriminating against real users.&quot; —<a href="https://twitter.com/nickpatch">@nickpatch</a> Excellent resources at <a href="https://t.co/59Wl7qcMxl">https://t.co/59Wl7qcMxl</a>. <a href="https://twitter.com/hashtag/osb15?src=hash">#osb15</a></p>&mdash; fureigh (@fureigh) <a href="https://twitter.com/fureigh/status/613467939476365312">June 23, 2015</a></blockquote>
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">&quot;Preventing fake names is not worth discriminating against real users.&quot; —<a href="https://twitter.com/novapatch">@novapatch</a> Excellent resources at <a href="https://t.co/59Wl7qcMxl">https://t.co/59Wl7qcMxl</a>. <a href="https://twitter.com/hashtag/osb15?src=hash">#osb15</a></p>&mdash; fureigh (@fureigh) <a href="https://twitter.com/fureigh/status/613467939476365312">June 23, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Thanks to everyone who participated in the session and discussion! Please feel
-free to contact me with questions at [@nickpatch](https://twitter.com/nickpatch)
+free to contact me with questions at [@novapatch](https://twitter.com/novapatch)
 or [patch@cpan.org](mailto:patch@cpan.org).
 
 <hr>
 
-*Nick Patch ([@nickpatch](https://twitter.com/nickpatch)) is an open source
+*Nick Patch ([@novapatch](https://twitter.com/novapatch)) is an open source
 developer on the International Search team at
 [Shutterstock](http://tech.shutterstock.com/), specializing in
 internationalization, localization, and multilingual search; and focusing on
