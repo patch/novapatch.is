@@ -1,4 +1,4 @@
-# nickpatch.net / patch.github.io
+# patch.codes / patch.github.io
 
 © 2010–2014 Nick Patch
 
