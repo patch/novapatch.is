@@ -114,7 +114,7 @@ or [patch@cpan.org](mailto:patch@cpan.org).
 
 <hr>
 
-*Nick Patch ([@novapatch](https://twitter.com/novapatch)) is an open source
+*Nova Patch ([@novapatch](https://twitter.com/novapatch)) is an open source
 developer on the International Search team at
 [Shutterstock](http://tech.shutterstock.com/), specializing in
 internationalization, localization, and multilingual search; and focusing on
