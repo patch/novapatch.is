@@ -5,7 +5,8 @@ permalink: /talks/upcoming/
 ---
 
 ## OSCON
-Portland, OR
+
+Portland, OR ✥ July 20–24
 
 * [Unicode beyond just characters: Localization with the
 CLDR](http://www.oscon.com/open-source-2015/public/schedule/detail/41337)
@@ -14,11 +15,11 @@ CLDR](http://www.oscon.com/open-source-2015/public/schedule/detail/41337)
 \_\_\_\_\_\_\_\_\_\_.](http://www.oscon.com/open-source-2015/public/schedule/detail/41305)
 ✥ Thu., July 23, 11:30 a.m.
 
-## IUC39
+## IUC 39
 
 #### Internationalization & Unicode Conference
 
-Santa Clara, CA
+Santa Clara, CA ✥ Oct. 26–28
 
 * [Hello, my name is
 \_\_\_\_\_\_\_\_\_\_.](http://www.unicodeconference.org/program-d.htm#S11-2)
@@ -31,8 +32,7 @@ Santa Clara, CA
 
 #### Connecticut–Westchester Mycological Association
 
-Yonkers, NY
+Yonkers, NY ✥ Sun., Nov. 8, 9:30–11:30 a.m.
 
 * [Lichen Walk of Untermyer
 Gardens](http://comafungi.org/event/untermeyer-gardens-lichen-walk/?instance_id=16756)
-✥ Sun., Nov. 8, 9:30 a.m.
