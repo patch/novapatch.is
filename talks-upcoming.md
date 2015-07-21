@@ -63,8 +63,6 @@ presentation, much of the topic is relevant to all types of user input. The
 intended audience includes programmers, UX designers, and QA testers. Together
 we can build inclusive software that supports diverse identities.
 
-<br>
-
 ## IUC 39
 
 #### Internationalization & Unicode Conference
@@ -78,8 +76,6 @@ Santa Clara, CA ✥ Oct. 26–28
 🔍](http://www.unicodeconference.org/program-d.htm#S12-3)
 ✥ Wed., Oct. 28, 3:10 p.m.
 
-<br>
-
 ## COMA
 
 #### Connecticut–Westchester Mycological Association
@@ -89,12 +85,4 @@ Yonkers, NY ✥ Sun., Nov. 8, 9:30–11:30 a.m.
 * [Lichen Walk of Untermyer
 Gardens](http://comafungi.org/event/untermeyer-gardens-lichen-walk/?instance_id=16756)
 
-<br>
-<hr>
-
-*Nova Patch ([@novapatch](https://twitter.com/novapatch)) is an open source
-developer on the International Search team at
-[Shutterstock](http://tech.shutterstock.com/), specializing in
-internationalization, localization, and multilingual search; and focusing on
-developing a search and discovery experience that supports the world’s
-languages, writing systems, and cultures.*
+{% include bio.md %}
