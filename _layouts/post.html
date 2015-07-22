@@ -8,6 +8,9 @@ layout: default
   </header>
 
   <article class="post-content">
+    {% if page.photo %}
+      <img src="{{ page.photo }}" style="float: right; border: 1px solid #000; margin-left: 1em">
+    {% endif %}
     {{ content }}
     {% unless page.bio == false %}{% include bio.md %}{% endunless %}
   </article>

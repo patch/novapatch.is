@@ -3,6 +3,7 @@ title: 'La nova nomo'
 layout: post
 permalink: /articles/from-nick-patch-to-nova-patch/
 category: personal
+photo: /img/novapatch-oscon2015.jpg
 bio: false
 ---
 
