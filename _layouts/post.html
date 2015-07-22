@@ -9,7 +9,7 @@ layout: default
 
   <article class="post-content">
     {{ content }}
-    {% include bio.md %}
+    {% unless page.bio == false %}{% include bio.md %}{% endunless %}
   </article>
 
   <p class="rss-subscribe" style="font-size: 0.75em">
