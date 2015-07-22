@@ -16,4 +16,6 @@ Some of my social usernames have changed:
 * I remain @patch on [GitHub](https://github.com/patch), [Speaker Deck](https://speakerdeck.com/patch), and [CPAN](https://metacpan.org/author/PATCH), among others.
 * The domain name for this website is now [patch.codes](http://patch.codes/).
 
+Besides that, everything else is pretty much the same :)
+
 *—Nova*
