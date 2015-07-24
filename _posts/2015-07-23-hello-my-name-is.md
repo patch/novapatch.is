@@ -11,8 +11,9 @@ tags:
 ---
 
 I recently presented this new talk *Hello, my name is __________* on
-supporting diverse user identities at [Open Source
-Bridge](http://opensourcebridge.org/) and
+supporting diverse user identities at
+[OSCON](http://www.oscon.com/open-source-2015), [Open Source
+Bridge](http://opensourcebridge.org/), and
 [YAPC::NA](http://www.yapcna.org/yn2015/). Here are some notes, slides, video,
 and additional resources.
 
@@ -70,7 +71,7 @@ width="560" height="315" frameborder="0" allowfullscreen="true"></iframe>
 </span>
 
 > “[#yapcna](https://twitter.com/hashtag/yapcna?src=hash) talk on name storage
-> &#x26; modern Unicode by {% include twitter.html %} is > convincing me to not
+> &#x26; modern Unicode by {% include twitter.html %} is convincing me to not
 > use just Alice and Bob Fakename in my test suites.”
 > <span style="font-size: 80%">
 >   —[Jason McIntosh](https://twitter.com/JmacDotOrg)
