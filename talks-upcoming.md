@@ -31,10 +31,10 @@ variety of programming languages.
 
 Topics include localized formatting of:
 
-* Numbers, percents, and ranges of numbers
-* Prices and currencies
-* Dates and times
-* Localized sorting lists of strings
+ * Numbers, percents, and ranges of numbers
+ * Prices and currencies
+ * Dates and times
+ * Localized sorting lists of strings
 
 <br>
 

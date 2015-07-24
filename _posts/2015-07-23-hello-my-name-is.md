@@ -36,17 +36,15 @@ presentation, much of the topic is relevant to all types of user input. The
 intended audience includes programmers, UX designers, and QA testers. Together
 we can build inclusive software that supports diverse identities.
 
-<!--
 > “I knew that times and dates were a minefield, but man, names…”
 > <span style="font-size: 80%">
 >   —[Dave Jacoby](https://twitter.com/jacobydave)
 > </span>
--->
 
 ### Slides
 
 <iframe src="https://speakerdeck.com/player/ef70b3970e9d4effa65affbe6ef03bca"
-id="talk_frame_302715" width="560" height="413" frameborder="0"
+id="talk_frame_302715" width="560" height="378" frameborder="0"
 allowfullscreen="true" allowtransparency="true" mozallowfullscreen="true"
 webkitallowfullscreen="true"
 style="border:0; padding:0; margin:0; background:transparent"></iframe>
