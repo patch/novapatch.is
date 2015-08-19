@@ -11,11 +11,10 @@ tags:
 ---
 
 I recently presented this new talk *Hello, my name is __________* on
-supporting diverse user identities at
-[OSCON](http://www.oscon.com/open-source-2015), [Open Source
-Bridge](http://opensourcebridge.org/), and
-[YAPC::NA](http://www.yapcna.org/yn2015/). Here are some notes, slides, video,
-and additional resources.
+supporting diverse user identities at [OSCON](http://www.oscon.com/), [Open
+Source Bridge](http://opensourcebridge.org/), and
+[YAPC::NA](http://www.yapcna.org/). Here are some notes, slides, video, and
+additional resources.
 
 ### Abstract
 

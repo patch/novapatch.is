@@ -10,8 +10,12 @@ tags:
   - cldr
 ---
 
-Here are notes, slides, video, and additional resources for my recent OSCON
-talk on software localization with the Unicode CLDR.
+Here are notes, slides, video, and additional resources for my talk on software
+localization with the Unicode CLDR, presented recently at
+[OSCON](http://www.oscon.com/) and the [NY Tech Localization
+Meetup](http://www.meetup.com/NY-Tech-Localization-Meetup/). Code examples are
+in Python, Ruby, and Perl, plus libraries in other popular languages are
+highlighted.
 
 ### Abstract
 
