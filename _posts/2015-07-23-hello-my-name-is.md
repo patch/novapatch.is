@@ -13,10 +13,30 @@ tags:
 I recently presented this new talk *Hello, my name is __________* on
 supporting diverse user identities at [OSCON](http://www.oscon.com/), [Open
 Source Bridge](http://opensourcebridge.org/), and
-[YAPC::NA](http://www.yapcna.org/). Here are some notes, slides, video, and
+[YAPC::NA](http://www.yapcna.org/). Here is the video, slides, notes, and
 additional resources.
 
-### Abstract
+### Video
+
+Here’s the [video from Open Source
+Bridge](https://www.youtube.com/watch?v=RqB2P5SPfgM). The earlier [video from
+YAPC::NA](https://www.youtube.com/watch?v=SKbqCB2NPXw) is also available.
+
+<iframe src="https://www.youtube.com/embed/RqB2P5SPfgM?feature=oembed"
+width="560" height="315" frameborder="0" allowfullscreen="true"></iframe>
+
+### Slides
+
+Here’s the [latest version of the
+slides](https://speakerdeck.com/patch/hello-my-name-is), as presented as OSCON.
+
+<iframe src="https://speakerdeck.com/player/ef70b3970e9d4effa65affbe6ef03bca"
+id="talk_frame_302715" width="560" height="378" frameborder="0"
+allowfullscreen="true" allowtransparency="true" mozallowfullscreen="true"
+webkitallowfullscreen="true"
+style="border:0; padding:0; margin:0; background:transparent"></iframe>
+
+### Description
 
 Our personal identity is core to how we perceive ourselves and wish to be seen.
 All too often, however, applications, databases, and user interfaces are not
@@ -34,45 +54,6 @@ Although names provide a powerful example and are the focus of this
 presentation, much of the topic is relevant to all types of user input. The
 intended audience includes programmers, UX designers, and QA testers. Together
 we can build inclusive software that supports diverse identities.
-
-> “I knew that times and dates were a minefield, but man, names…”
-> <span style="font-size: 80%">
->   —[Dave Jacoby](https://twitter.com/jacobydave)
-> </span>
-
-### Slides
-
-<iframe src="https://speakerdeck.com/player/ef70b3970e9d4effa65affbe6ef03bca"
-id="talk_frame_302715" width="560" height="378" frameborder="0"
-allowfullscreen="true" allowtransparency="true" mozallowfullscreen="true"
-webkitallowfullscreen="true"
-style="border:0; padding:0; margin:0; background:transparent"></iframe>
-
-<span style="font-size: 80%">
-  Direct link:
-  [https://speakerdeck.com/patch/hello-my-name-is](https://speakerdeck.com/patch/hello-my-name-is)
-</span>
-
-### Video
-
-Here’s the video from the first presentation of this talk at YAPC::NA—beware of
-some Perl community–specific references and humor in this version!
-
-<iframe src="https://www.youtube.com/embed/SKbqCB2NPXw?start=180&feature=oembed"
-width="560" height="315" frameborder="0" allowfullscreen="true"></iframe>
-
-<span style="font-size: 80%">
-  Direct link:
-  [https://youtu.be/SKbqCB2NPXw?t=3m](https://youtu.be/SKbqCB2NPXw?t=3m)
-  (talk starts at 3:00)
-</span>
-
-> “[#yapcna](https://twitter.com/hashtag/yapcna?src=hash) talk on name storage
-> &#x26; modern Unicode by {% include twitter.html %} is convincing me to not
-> use just Alice and Bob Fakename in my test suites.”
-> <span style="font-size: 80%">
->   —[Jason McIntosh](https://twitter.com/JmacDotOrg)
-> </span>
 
 ### Resources
 
