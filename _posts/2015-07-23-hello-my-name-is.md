@@ -28,7 +28,7 @@ width="560" height="315" frameborder="0" allowfullscreen="true"></iframe>
 ### Slides
 
 Here’s the [latest version of the
-slides](https://speakerdeck.com/patch/hello-my-name-is), as presented as OSCON.
+slides](https://speakerdeck.com/patch/hello-my-name-is), as presented at OSCON.
 
 <iframe src="https://speakerdeck.com/player/ef70b3970e9d4effa65affbe6ef03bca"
 id="talk_frame_302715" width="560" height="378" frameborder="0"
