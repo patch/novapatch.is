@@ -16,6 +16,14 @@ Source Bridge](http://opensourcebridge.org/), and
 [YAPC::NA](http://www.yapcna.org/). Here is the video, slides, notes, and
 additional resources.
 
+This presentation contains several examples provided by open source community
+leader and gender equality advocate [Nóirín
+Plunkett](https://twitter.com/noirinp), whose Irish name was frequently
+mishandled in software. Nóirín has sadly [passed
+away](https://adainitiative.org/2015/07/remembering-noirin-plunkett/) recently.
+I’d like to thank Nóirín for their contributions to this presentation and to the
+greater open source community.
+
 ### Video
 
 Here’s the [video from Open Source
