@@ -25,12 +25,12 @@ languages. The Common Locale Data Repository (CLDR) is the largest standard
 repository of locale data along with specifications for its use, and is a
 powerful resource for software localization.
 
-The Unicode CLDR is quickly becoming the de facto locale standard with
-widespread use among companies, including Google, Apple, and IBM; projects
-ranging from Linux distributions to Wikipedia; and increasing support in many
-programming languages. This talk provides an introduction to software
-localization and highlights popular CLDR-based open source libraries in a
-variety of programming languages.
+The Unicode CLDR has become the de facto locale standard with widespread use
+among companies, including Google, Apple, and Microsoft; projects ranging from
+Linux distributions to Wikipedia; and increasing support in many programming
+languages. This talk provides an introduction to software localization and
+highlights popular CLDR-based open source libraries in a variety of programming
+languages.
 
 Topics include localized formatting of:
 
