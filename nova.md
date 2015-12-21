@@ -31,3 +31,5 @@ to use honorifics, especially not gendered ones like *Ms.* or *Mr.*
 * Duolingo: [@novapatch](https://www.duolingo.com/novapatch)
 * Instagram: [@novapatch](https://www.instagram.com/novapatch/)
 * Speaker Deck: [@patch](https://speakerdeck.com/patch)
+
+Note: I used to use the name *Nick Patch*.

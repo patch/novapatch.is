@@ -5,6 +5,7 @@ permalink: /articles/from-nick-patch-to-nova-patch/
 category: personal
 photo: /img/novapatch-oscon2015.jpg
 bio: false
+published: false
 ---
 
 You may have noticed a new name around these parts: Nova Patch.
