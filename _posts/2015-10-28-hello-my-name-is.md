@@ -12,9 +12,10 @@ tags:
 
 I recently presented this new talk *Hello, my name is __________* on
 supporting diverse user identities at [OSCON](http://www.oscon.com/), [Open
-Source Bridge](http://opensourcebridge.org/), and
-[YAPC::NA](http://www.yapcna.org/). Here is the video, slides, notes, and
-additional resources.
+Source Bridge](http://opensourcebridge.org/),
+[YAPC::NA](http://www.yapcna.org/), and the [Internationalization & Unicode
+Conference](http://www.unicodeconference.org/). Here is the video, slides,
+notes, and additional resources.
 
 This presentation contains several examples provided by open source community
 leader and gender equality advocate [Nóirín
