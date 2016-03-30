@@ -10,7 +10,7 @@ tags:
   - i18n
 ---
 
-I recently presented this new talk *Hello, my name is __________* on
+I recently presented this new talk *Hello, my name is ____________* on
 supporting diverse user identities at [OSCON](http://www.oscon.com/), [Open
 Source Bridge](http://opensourcebridge.org/),
 [YAPC::NA](http://www.yapcna.org/), and the [Internationalization & Unicode

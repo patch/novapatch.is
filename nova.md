@@ -4,14 +4,14 @@ layout: page
 permalink: /nova/
 ---
 
-Nova Patch is the lead software engineer for international search at
+Nova Patch is a principal engineer at
 [Shutterstock](http://www.shutterstock.com/), specializing in
-internationalization, localization, and multilingual search; and focusing on
-developing a search and discovery experience that supports the world’s
-languages, writing systems, and cultures. They are an open source developer,
-contributor to the Unicode CLDR, and member of the Unicode Consortium. Speaking
-experience includes the Internationalization & Unicode Conference, Open Source
-Bridge, OSCON, and YAPC::NA, as well as local events and meetups.
+internationalization, multilingual search, and building products that support
+the world’s languages, writing systems, and cultures. They are an open source
+developer, contributor to the Unicode CLDR, and member of the Unicode
+Consortium. Speaking experience includes the Internationalization & Unicode
+Conference, Open Source Bridge, OSCON, and YAPC::NA, as well as local events and
+meetups.
 
 Nova is an amateur lichenologist, focusing on the urban lichens of New York
 City, and runs the website and open data project
@@ -31,5 +31,3 @@ to use honorifics, especially not gendered ones like *Ms.* or *Mr.*
 * Duolingo: [@novapatch](https://www.duolingo.com/novapatch)
 * Instagram: [@novapatch](https://www.instagram.com/novapatch/)
 * Speaker Deck: [@patch](https://speakerdeck.com/patch)
-
-Note: I used to use the name *Nick Patch*.
