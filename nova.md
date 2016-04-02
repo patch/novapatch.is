@@ -30,4 +30,5 @@ to use honorifics, especially not gendered ones like *Ms.* or *Mr.*
 * LinkedIn: [@novapatch](https://www.linkedin.com/in/novapatch)
 * Duolingo: [@novapatch](https://www.duolingo.com/novapatch)
 * Instagram: [@novapatch](https://www.instagram.com/novapatch/)
-* Speaker Deck: [@patch](https://speakerdeck.com/patch)
+* SpeakerDeck: [@patch](https://speakerdeck.com/patch)
+* Goodreads: [Nova Patch](https://www.goodreads.com/author/show/15139989.Nova_Patch) (author)
