@@ -10,12 +10,12 @@ tags:
   - i18n
 ---
 
-I recently presented this new talk *Hello, my name is ____________* on
-supporting diverse user identities at [OSCON](http://www.oscon.com/), [Open
-Source Bridge](http://opensourcebridge.org/),
-[YAPC::NA](http://www.yapcna.org/), and the [Internationalization & Unicode
-Conference](http://www.unicodeconference.org/). Here is the video, slides,
-notes, and additional resources.
+My newest talk *Hello, my name is ____________* on supporting diverse user
+identities, presented at [OSCON](http://www.oscon.com/), [Open Source
+Bridge](http://opensourcebridge.org/), [YAPC::NA](http://www.yapcna.org/), [AWS
+Loft](https://aws.amazon.com/start-ups/loft/ny-loft/), and the
+[Internationalization & Unicode Conference](http://www.unicodeconference.org/).
+Here are the videos, slides, notes, and additional resources.
 
 This presentation contains several examples provided by open source community
 leader and gender equality advocate [Nóirín
