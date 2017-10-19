@@ -58,5 +58,5 @@ This presentation covers:
  * **[Unicode Emoji](https://unicode.org/reports/tr51/)** (UTS #51)
 
 ### Presented at
- * 2017-10-18: **Internationalization & Unicode Conference 41** (IUC41), Santa Clara, CA
- * 2017-06-21: **The Perl Conference** (YAPC::NA), Washington, DC
+ * 2017-10-18: Internationalization & Unicode Conference 41 (IUC41), Santa Clara, CA
+ * 2017-06-21: The Perl Conference (YAPC::NA), Washington, DC
