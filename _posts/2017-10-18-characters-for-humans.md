@@ -9,9 +9,6 @@ tags:
   - emoji
 ---
 
-<script async class="speakerdeck-embed" data-id="92864267464d4a088a1095e6992983af"
-data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
-
 A “character” can mean different things to different people, but the largest
 disparity is between applications and the humans who use them. Programmers
 aren’t to blame, as our programming languages, libraries, and databases provide
@@ -24,12 +21,15 @@ compose a single user-perceived character. With the rise in global emoji usage
 and the rapid evolution of standard emoji sequences, this problem is
 increasingly experienced by users worldwide, regardless of their language.
 
-Topics include:
+This presentation covers:
  * Extended grapheme clusters and emoji sequences 
  * Programming with these user-perceived characters 
  * Data input, parsing, analysis, formatting, and output 
  * Setting product requirements for character support 
  * Examples from Shutterstock’s platforms for content editing and collaboration
+
+<script async class="speakerdeck-embed" data-id="92864267464d4a088a1095e6992983af"
+data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 ### Resources
  * [Fabric.js](http://fabricjs.com/): Open source HTML5 Canvas library

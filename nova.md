@@ -10,13 +10,14 @@ internationalization, multilingual search, and building products that support
 the world’s languages, writing systems, and cultures. They are an open source
 developer, contributor to the Unicode CLDR, and member of the Unicode
 Consortium. Speaking experience includes the Internationalization & Unicode
-Conference, Open Source Bridge, OSCON, and YAPC::NA, as well as local events and
-meetups.
+Conference, Open Source Bridge, AWS Loft, and OSCON.
 
 Nova is an amateur lichenologist, focusing on the urban lichens of New York
 City, and runs the website and open data project
-[Lichens.nyc](http://lichens.nyc/). They are a botany student at the New York
-Botanical Garden and an active member of the New York Mycological Society.
+[Lichens.nyc](http://lichens.nyc/) and the
+[Lichens of New York City](https://www.inaturalist.org/projects/lichens-of-new-york-city)
+project on iNaturalist. They hold a botany certificate from the New York
+Botanical Garden and are an active member of the New York Mycological Society.
 Past lichen talks and walks have been given to the Clark Rogerson Foray, New
 York Mycological Society, Connecticut–Westchester Mycological Association, and
 Boston Skillshare.
