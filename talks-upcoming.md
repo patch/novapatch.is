@@ -6,7 +6,7 @@ permalink: /talks/upcoming/
 
 #### Connecticut–Westchester Mycological Association
 
-Yonkers, NY ✥ Sun., Nov. 8, 9:30–11:30 a.m.
+Yonkers, NY ✥ Sat., Nov. 4, 10:30 a.m. – 12:30 p.m.
 
 * [Lichen Walk of Untermyer Gardens](http://www.comafungi.org/calendar/)
 
