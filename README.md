@@ -1,6 +1,6 @@
-# patch.codes / patch.github.io
+# novapatch.is / patch.github.io
 
-© 2010–2017 Nova Patch
+© 2010–2021 Nova Patch
 
 This work, excluding the `nature` directory and its contents, is licensed under
 a [Creative Commons Attribution-ShareAlike 4.0 International

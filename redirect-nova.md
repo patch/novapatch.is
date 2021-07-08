@@ -16,7 +16,7 @@ Some of my social usernames have changed:
 
 * I’m now @novapatch on [Twitter](https://twitter.com/novapatch), [Instagram](https://instagram.com/novapatch), and [LinkedIn](https://www.linkedin.com/in/novapatch).
 * I remain @patch on [GitHub](https://github.com/patch), [Speaker Deck](https://speakerdeck.com/patch), and [CPAN](https://metacpan.org/author/PATCH), among others.
-* The domain name for this website is now [patch.codes](http://patch.codes/).
+* The domain name for this website is now [novapatch.is](https://novapatch.is/).
 
 Besides that, everything else is pretty much the same :)
 

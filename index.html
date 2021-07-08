@@ -1,38 +1,26 @@
----
-layout: default
----
-
-<div class="home" style="float: right; text-align: right">
-  <h1 class="page-heading">Sections</h1>
-  <ul class="post-list">
-    <li>
-      <h2>
-        <a class="post-link" href="/nova/">About</a>
-      </h2>
-      <h2>
-        <a class="post-link" href="/talks/upcoming/">Talks</a>
-      </h2>
-      <h2>
-        <a class="post-link" href="http://lichens.nyc/">Lichens</a>
-      </h2>
-    </li>
-  </ul>
-  <br>
-</div>
-<div class="home">
-  <h1 class="page-heading">Articles</h1>
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | replace: ': ', ':<br>' }}</a>
-        </h2>
-        {{ post.excerpt }}
-      </li>
-    {% endfor %}
-  </ul>
-  <p class="rss-subscribe" style="font-size: 0.75em">
-    <a href="{{ "/feed.xml" | prepend: site.baseurl }}"><img src="/img/rss.png" alt="RSS"> Subscribe via RSS</a>
-  </p>
-</div>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <title>Nova Patch</title>
+    <meta name="description" content="Nova Patch’s list o’ links">
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <img id="userPhoto" src="https://s.gravatar.com/avatar/05bab33cfd102c84f045838aa4e05bec" alt="Nova Patch"/>
+    <h1>Nova Patch</h1>
+    <div id="description">
+    </div>
+    <div id="links">
+      <a class="link" href="https://soundcloud.com/novapatch">SoundCloud</a>
+      <a class="link" href="https://www.instagram.com/novapatch/">Instagram</a>
+      <a class="link" href="https://twitter.com/novapatch">Twitter</a>
+      <a class="link" href="https://www.inaturalist.org/people/novapatch">iNaturalist</a>
+      <a class="link" href="https://github.com/patch">GitHub</a>
+      <a class="link" href="https://www.linkedin.com/in/novapatch/">LinkedIn</a>
+    </div>
+    <!-- Javascript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  </body>
+</html>
