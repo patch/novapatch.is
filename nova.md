@@ -25,9 +25,10 @@ Boston Skillshare.
 Nova uses the gender-neutral pronouns they/them and prefers not
 to use honorifics, especially not gendered ones like *Ms.* or *Mr.*
 
-* Bluesky: [@patch](https://bsky.app/profile/novapatch.ie)
-* LinkedIn: [@novapatch](https://www.linkedin.com/in/novapatch)
+* Bluesky: [@novapatch](https://bsky.app/profile/novapatch.ie)
+* Mastodon: [mastodon.ie/@patch](https://mastodon.ie/@patch)
 * GitHub: [@patch](https://github.com/patch)
+* LinkedIn: [@novapatch](https://www.linkedin.com/in/novapatch)
 * iNaturalist: [@novapatch](https://www.inaturalist.org/people/novapatch)
 * YouTube: [@novapatch](https://www.youtube.com/@novapatch)
 * SoundCloud: [@novapatch](https://soundcloud.com/novapatch)
