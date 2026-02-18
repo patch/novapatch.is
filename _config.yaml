@@ -2,11 +2,11 @@ title:       Nova Patch
 email:       nova.patch@gmail.com
 description: Languages and writing systems, botany and mycology, open science and open data.
 baseurl:     ""
-url:         https://novapatch.is
+url:         https://novapatch.ie
 github:      patch
 twitter:     novapatch
 instagram:   novapatch
 linkedin:    novapatch
 encoding:    utf-8
 markdown:    kramdown
-timezone:    America/New_York
+timezone:    Europe/Dublin
