@@ -14,7 +14,7 @@ I’m now using Nova as my primary name and invite others call me it. It’s not
 
 Some of my social usernames have changed:
 
-* I’m now @novapatch on [Twitter](https://twitter.com/novapatch), [Instagram](https://instagram.com/novapatch), and [LinkedIn](https://www.linkedin.com/in/novapatch).
+* I’m now @novapatch on [LinkedIn](https://www.linkedin.com/in/novapatch).
 * I remain @patch on [GitHub](https://github.com/patch), [Speaker Deck](https://speakerdeck.com/patch), and [CPAN](https://metacpan.org/author/PATCH), among others.
 * The domain name for this website is now [novapatch.is](https://novapatch.is/).
 

@@ -4,7 +4,7 @@ layout: page
 permalink: /nova/
 ---
 
-Nova Ember Patch is a principal engineer at
+Nova Patch is Director of Internationalization & Localization at
 [Shutterstock](http://www.shutterstock.com/), specializing in
 internationalization, multilingual search, and building products that support
 the world’s languages, writing systems, and cultures. They are an open source
@@ -22,17 +22,12 @@ Past lichen talks and walks have been given to the Clark Rogerson Foray, New
 York Mycological Society, Connecticut–Westchester Mycological Association, and
 Boston Skillshare.
 
-Nova uses the gender-neutral [pronoun *they*](http://pronoun.is/they) to refer
-to themself, as opposed to gendered pronouns like *she* or *he*, and prefers not
+Nova uses the gender-neutral pronouns they/them and prefers not
 to use honorifics, especially not gendered ones like *Ms.* or *Mr.*
 
-* GitHub: [@patch](https://github.com/patch)
-* Twitter: [@novapatch](https://twitter.com/novapatch)
+* Bluesky: [@patch](https://bsky.app/profile/novapatch.ie)
 * LinkedIn: [@novapatch](https://www.linkedin.com/in/novapatch)
-* Duolingo: [@novapatch](https://www.duolingo.com/novapatch)
+* GitHub: [@patch](https://github.com/patch)
 * iNaturalist: [@novapatch](https://www.inaturalist.org/people/novapatch)
-* Instagram: [@novapatch](https://www.instagram.com/novapatch/)
-* Goodreads: [@novapatch](https://www.goodreads.com/novapatch)
-* Shutterstock: [@novapatch](https://www.shutterstock.com/g/novapatch) +
-[footage](https://www.shutterstock.com/video/gallery/Nova-Patch-4055674/)
-* SpeakerDeck: [@patch](https://speakerdeck.com/patch)
+* YouTube: [@novapatch](https://www.youtube.com/@novapatch)
+* SoundCloud: [@novapatch](https://soundcloud.com/novapatch)
