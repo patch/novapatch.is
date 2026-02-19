@@ -4,26 +4,13 @@ layout: page
 permalink: /nova/
 ---
 
-Nova Patch is Director of Internationalization & Localization at
-[Shutterstock](http://www.shutterstock.com/), specializing in
-internationalization, multilingual search, and building products that support
-the world’s languages, writing systems, and cultures. They are an open source
-developer, contributor to the Unicode CLDR, and member of the Unicode
-Consortium. Speaking experience includes the Internationalization & Unicode
-Conference, Open Source Bridge, AWS Loft, and OSCON.
+## Professional
 
-Nova is an amateur lichenologist, focusing on the urban lichens of New York
-City, and runs the website and open data project
-[Lichens.nyc](http://lichens.nyc/) and the
-[Lichens of New York City](https://www.inaturalist.org/projects/lichens-of-new-york-city)
-project on iNaturalist. They hold a botany certificate from the New York
-Botanical Garden and are an active member of the New York Mycological Society.
-Past lichen talks and walks have been given to the Clark Rogerson Foray, New
-York Mycological Society, Connecticut–Westchester Mycological Association, and
-Boston Skillshare.
+Nova Patch (they/them) is Director of Internationalization & Localization at Shutterstock, with over two decades of experience working at the intersection of language, technology, and culture. Drawing on a background in software engineering and product management, they have led the expansion of global platforms into more than 30 languages through scalable, inclusive, and culturally grounded localization approaches. A lifetime individual member of the Unicode Consortium and co-founder of Shutterstock’s LGBTQ+ employee resource group, Nova is committed to advancing open standards and creating digital experiences that support diverse users worldwide.
 
-Nova uses the gender-neutral pronouns they/them and prefers not
-to use honorifics, especially not gendered ones like *Ms.* or *Mr.*
+## Naturalist
+
+Nova is also an amateur lichenologist, specializing on the urban lichens of New York City, and runs the website and open data project [Lichens of New York City](https://www.inaturalist.org/projects/lichens-of-new-york-city) on iNaturalist. They hold a botany certificate from the New York Botanical Garden and are an active member of the New York Mycological Society. Past lichen talks and walks have been given to the Northeast Mycological Federation (NEMF) Samuel Ristich Foray, Connecticut–Westchester Mycological Association (COMA) Clark Rogerson Foray, New York Mycological Society, Green-Wood Cemetery, and Boston Skillshare.
 
 * Bluesky: [@novapatch](https://bsky.app/profile/novapatch.ie)
 * Mastodon: [mastodon.ie/@patch](https://mastodon.ie/@patch)
