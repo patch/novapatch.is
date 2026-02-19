@@ -1,5 +1,5 @@
 ---
-title: 'Bio'
+title: 'About'
 layout: page
 permalink: /en/about
 ---
