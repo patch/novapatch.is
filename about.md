@@ -12,10 +12,11 @@ Nova Patch (they/them) is Director of Internationalization & Localization at Shu
 
 Nova is also an amateur lichenologist, specializing on the urban lichens of New York City, and runs the website and open data project [Lichens of New York City](https://www.inaturalist.org/projects/lichens-of-new-york-city) on iNaturalist. They hold a botany certificate from the New York Botanical Garden and are an active member of the New York Mycological Society. Past lichen talks and walks have been given to the Northeast Mycological Federation (NEMF) Samuel Ristich Foray, Connecticut–Westchester Mycological Association (COMA) Clark Rogerson Foray, New York Mycological Society, Green-Wood Cemetery, and Boston Skillshare.
 
-* Bluesky: [@novapatch](https://bsky.app/profile/novapatch.ie)
-* Mastodon: [mastodon.ie/@patch](https://mastodon.ie/@patch)
-* GitHub: [@patch](https://github.com/patch)
-* LinkedIn: [@novapatch](https://www.linkedin.com/in/novapatch)
-* iNaturalist: [@novapatch](https://www.inaturalist.org/people/novapatch)
-* YouTube: [@novapatch](https://www.youtube.com/@novapatch)
-* SoundCloud: [@novapatch](https://soundcloud.com/novapatch)
+**Links:**
+[Bluesky](https://bsky.app/profile/novapatch.ie) ·
+[GitHub](https://github.com/patch) ·
+[iNaturalist](https://www.inaturalist.org/people/novapatch) ·
+[LinkedIn](https://www.linkedin.com/in/novapatch) ·
+[Mastodon](https://mastodon.ie/@patch) ·
+[SoundCloud](https://soundcloud.com/novapatch) ·
+[YouTube](https://www.youtube.com/@novapatch)
