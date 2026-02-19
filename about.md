@@ -1,7 +1,7 @@
 ---
 title: 'Bio'
 layout: page
-permalink: /nova/
+permalink: /en/about
 ---
 
 ## Professional
