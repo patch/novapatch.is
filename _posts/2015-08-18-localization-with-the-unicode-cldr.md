@@ -1,7 +1,7 @@
 ---
 title: 'Unicode beyond just characters: Localization with the CLDR'
 layout: post
-permalink: /talks/localization-with-the-unicode-cldr/
+permalink: /en/unicode-beyond-just-characters
 category: coding
 tags:
   - unicode

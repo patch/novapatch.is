@@ -1,7 +1,7 @@
 ---
 title: 'Hello, my name is __________.'
 layout: post
-permalink: /talks/hello-my-name-is/
+permalink: /en/hello-my-name-is
 category: coding
 tags:
   - names

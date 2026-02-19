@@ -1,7 +1,7 @@
 ---
 title: 'Characters for Humans'
 layout: post
-permalink: /talks/characters-for-humans/
+permalink: /en/characters-for-humans
 category: coding
 tags:
   - unicode
